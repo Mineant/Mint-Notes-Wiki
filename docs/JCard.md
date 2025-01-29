@@ -6,13 +6,17 @@
 
 **In a Board Game**: 
 
-![](/JCard.assets/Image Sequence_010_0000.jpg)
+![](/JCard_assets/Image Sequence_010_0000.jpg)
 
 
 
 **Class Diagram**：
 
-![Image Sequence_011_0000](JCard.assets/Image Sequence_011_0000.jpg)
+
+
+![](JCard.assets/Image Sequence_011_0000-1738184679488-5.jpg)
+
+
 
 ------
 
