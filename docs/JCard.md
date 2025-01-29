@@ -6,15 +6,15 @@
 
 **In a Board Game**: 
 
-<img src='./JCard_assets/Image Sequence_010_0000.jpg' width="800"></img>
+<img src="./JCard.assets/Image Sequence_010_0000.jpg" width="800">
 
-![Image Sequence_010_0000](./JCard.assets/Image Sequence_010_0000.jpg) 
+
 
 **Class Diagram**：
 
+<img src="./JCard.assets/Image Sequence_011_0000.jpg" width="800">
 
 
-![](JCard.assets/Image Sequence_011_0000-1738184679488-5.jpg)
 
 
 
@@ -31,7 +31,7 @@
 
 
 
-![Image Sequence_007_0000](JCard.assets/Image Sequence_007_0000.jpg)
+<img src="./JCard.assets/Image Sequence_007_0000.jpg" width="800">
 
 > Creating new "Character" JCard
 
@@ -41,7 +41,7 @@ The **JCard Template Window** will automatically open after creating the JCard. 
 
 
 
-![Image Sequence_009_0000](JCard.assets/Image Sequence_009_0000.jpg)
+<img src="./JCard.assets/Image Sequence_009_0000.jpg" width="800">
 
 > Press the "Exit" button to return to main menu
 
