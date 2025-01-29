@@ -6,7 +6,9 @@
 
 **In a Board Game**: 
 
-![](Image Sequence_010_0000.jpg ':basepath=/JCard_assets/')
+<img src='/JCard_assets/Image Sequence_010_0000.jpg'></img>
+
+![](/JCard_assets/Image Sequence_010_0000.jpg)
 
 
 
