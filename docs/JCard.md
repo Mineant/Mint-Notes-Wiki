@@ -4,8 +4,15 @@
 
 **JCards** are customizable cards used in the project. You can create JCards with custom fields, adjusting their type, text fields, icons, tags, and symbols for various settings. Here are different ways to use JCards:
 
-- **In a Board Game**: [Image with Character, Item, Building JCards]
-- **Class Diagram**: [Image with Class and Function JCards]
+**In a Board Game**: 
+
+![Image Sequence_010_0000](JCard.assets/Image Sequence_010_0000.jpg)
+
+
+
+**Class Diagram**：
+
+![Image Sequence_011_0000](JCard.assets/Image Sequence_011_0000.jpg)
 
 ------
 
@@ -18,9 +25,23 @@
 3. Enter the name for your JCard, e.g., "Character".
 4. Press "Create".
 
-[Insert image of creating JCard Character]
+
+
+![Image Sequence_007_0000](JCard.assets/Image Sequence_007_0000.jpg)
+
+> Creating new "Character" JCard
+
+
 
 The **JCard Template Window** will automatically open after creating the JCard. We will discuss its functionality later. You can click "Exit" to close it for now.
+
+
+
+![Image Sequence_009_0000](JCard.assets/Image Sequence_009_0000.jpg)
+
+> Press the "Exit" button to return to main menu
+
+
 
 Now, your JCard's icon will appear on the **Object Creator Bar**. You can drag the icon to create a new JCard based on that template.
 
