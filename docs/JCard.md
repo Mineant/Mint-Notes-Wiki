@@ -6,7 +6,7 @@
 
 **In a Board Game**: 
 
-![](/JCard_assets/Image Sequence_010_0000.jpg)
+![](Image Sequence_010_0000.jpg ':basepath=/JCard_assets/')
 
 
 
