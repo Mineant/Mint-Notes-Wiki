@@ -193,3 +193,6 @@ If a JCard with the same ID exists, you can choose one of the following options:
 - **Keep Original**: Do not import the new JCard.
 - **Keep New**: Replace the original JCard with the new one.
 - **Keep Both**: Retain the original JCard and create a new one with a new ID and values.
+
+
+
