@@ -6,11 +6,9 @@
 
 **In a Board Game**: 
 
-<img src='/JCard_assets/Image Sequence_010_0000.jpg'></img>
+<img src='./JCard_assets/Image Sequence_010_0000.jpg' width="800"></img>
 
-![](/JCard_assets/Image Sequence_010_0000.jpg)
-
-
+![Image Sequence_010_0000](./JCard.assets/Image Sequence_010_0000.jpg) 
 
 **Class Diagram**：
 
