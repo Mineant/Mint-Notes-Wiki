@@ -123,7 +123,7 @@ You can edit a tag after creation. All changes will apply to existing JCards.
 
 ### 4.2 Using Symbols
 
-Symbols are icons. The processes for editing, equipping, and creating symbols are similar to those for tags. Please refer to the Tags documentation. [Insert link to tags documentation]
+Symbols are icons. The processes for editing, equipping, and creating symbols are similar to those for tags.
 
 ------
 
@@ -135,7 +135,7 @@ You can import a CSV file to create a new JCard Template and its corresponding J
 
 #### Steps to Import a New JCard Template
 
-You can import a CSV to create a new JCard Template and its corresponding JCards. This is a fast way to create JCards if you already have a table of cards.
+You can import a CSV to create a new JCard Template and its corresponding JCards. This is a fast way to create JCards if you already have a table of card data.
 
 To import and create a new JCard:
 
@@ -175,20 +175,20 @@ Once all errors are resolved, click "Import" to import the JCards.
 
 ## 5.3 Importing into an Existing JCard
 
-You can also import a CSV into an existing JCard to modify them in bulk using tools like Google Sheets or Microsoft Excel. For example, you can easily increase the "Attack" field of a "Character" JCard by +1.
+You can also import a CSV into an existing JCard. This is used for bulk editing data. For example, you can first export a existing JCard to a CSV, then use tools like Google Sheets or Microsoft Excel to modify the values. Finally, import the CSV back into the JCard to update its data.
 
 To import a CSV into an existing JCard:
 
 1. Select the JCard from the **Object Creator Bar** that you want to modify.
 2. Press "Import CSV".
 
-The **JCard Template Window** will open, allowing you to adjust settings.
+The **JCard Import Window** will open, allowing you to adjust settings.
 
 After making adjustments, press "Import".
 
 #### Handling Column Conflicts
 
-If the number of columns differs between the existing JCard Template and the new Template, a conflict window will appear, allowing you to decide which text fields to use for the new JCard.
+When importing a new CSV, Mint Notes will try to create a new JCard Template. If the new template differs between the existing JCard Template, a conflict window will appear, allowing you to decide which text fields to use for the new JCard.
 
 ### 5.4 Conflict Resolution Scenarios
 
@@ -205,7 +205,7 @@ If the number of columns differs between the existing JCard Template and the new
    - JCard B: [Health:10] [Attack:20] [Defense:30]
    - Result: JCard Z: [Health:50] [Attack:60] [Defense: ]
 
-AS seen from scenario 1,  the way it resolves conflict is by the **order** of the text fields, and not by the name. 
+As seen from scenario 1,  the way it resolves conflict is by the **order** of the text fields, and not by the name. 
 
 From scenario 2, information of the original JCard B will be lost if the number of text fields is less.
 
